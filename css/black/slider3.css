@@ -1,0 +1,142 @@
+#featured-bx{
+	background: transparent url(../../images/black/shadow-featured.png) no-repeat center 300px;
+	height: 371px;
+	margin-top: 5px;
+	margin-bottom: 42px;
+}
+
+.slides1_wrap {
+	position: relative;
+	padding: 20px 0 37px;
+	width: 960px;
+}
+
+#slides1 {
+	overflow: hidden;
+	height: auto;
+}
+
+ul#slides1{
+	height: 350px;
+}
+
+#slides1 li {
+	list-style: none;
+	width: 960px !important;
+	height: 350px;
+}
+
+#slides1 .left-description{
+	width: 380px;
+	float: left;
+	margin-right: 50px;
+	margin-top: 17px;
+}
+
+#slides1 .right-description{
+	width: 380px;
+	float: right;
+	position: relative;
+	right: 10px;
+	margin-top: 17px;
+}
+
+#slides1 img.right-image{
+	float: right;
+	position: relative;
+	left: -31px;
+}
+
+#slides1 img.left-image{
+	float: left;
+	position: relative;
+	left: 15px;
+}
+
+#slides1 .left-description h2, #slides1 .right-description h2{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#slides1 li p {
+	line-height: 18px;
+	font-size: 14px;
+}
+
+#slides1 h3 {
+	font-size: 36px;
+	color: #8d8d8d;
+	font-weight: normal;
+	text-transform: lowercase;
+}
+
+#slides1 h4 {
+	font-size: 18px;
+	color: #000;
+	font-style: italic;
+	font-weight: normal;
+	text-transform: lowercase;
+	padding-bottom: 16px;
+}
+
+.slides1_wrap .prev {
+	position: absolute;
+	left: -6px;
+	top: 100px;
+	outline: 0;
+	display: none;
+}
+
+.slides1_wrap .next {
+	position: absolute;
+	right: 90px;
+	top: 100px;
+	outline: 0;
+	display: none;
+}
+
+.slides1_wrap a:active {
+	top: 102px;
+}
+
+.bx_pager {
+	padding-left: 0;
+	padding-top: 15px;
+	float: right;
+	position: relative;
+	top: -27px;
+}
+
+.bx_pager a {
+	float: left;
+	background: url(../../images/black/bg_pager.png) no-repeat 0 0;
+	width: 14px;
+	height: 17px;
+	color: #fffeff;
+	font-size: 11px;
+	margin-right: 6px;
+	padding: 3px 0 0 7px;
+}
+
+.bx_pager a:hover, .bx_pager a.active {
+	background-position: 0 -21px;
+	text-decoration: none;
+}
+
+.auto_controls {
+	position: absolute;
+	bottom: -11px;
+	left: 394px;
+}
+
+.auto_controls a {
+	font-size: 16px;
+	color: #a3a3a3;
+	outline: 0;
+	padding: 2px;
+}
+
+.auto_controls a:hover {
+	text-decoration: none;	
+	background: ;
+	color: #e41996;
+}
