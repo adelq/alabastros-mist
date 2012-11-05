@@ -43,8 +43,6 @@
 	
 	<!-- SCRIPTS -->
 	<?php wp_enqueue_script('login.top', '/wp-content/themes/alabastroswp/js/login.js'); ?>
-	<?php wp_enqueue_script('jquery.cufon', '/wp-content/themes/alabastroswp/js/cufon.js'); ?>
-	<?php wp_enqueue_script('aller.font', '/wp-content/themes/alabastroswp/js/Aller_400-Aller_700.font.js'); ?>
 	<?php wp_enqueue_script('jquery.tipsy', '/wp-content/themes/alabastroswp/js/jquery.tipsy.js'); ?>
 	
 	<?php if ( is_home()) { ?>
