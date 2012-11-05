@@ -3,14 +3,6 @@
 <div id="footer">
 <div class="footer-content">
 	<div class="footer-left">
-		<?php $copyright = stripslashes(get_option('al_footer_text')); ?>
-		<?php
-		if($copyright !== ''){ ?>
-		<p><?php echo stripslashes(get_option('al_footer_text')); ?></p> 
-		<?php } else { ?>
-		<p>© <?php bloginfo('name'); ?>, inc&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;all rights reserved</p>
-		<?php } ?>
-    	<a class="rss" href="<?php bloginfo('rss2_url'); ?>">subscribe to our rss feed</a>
 	</div><!-- end of footer-left -->
 	
 	<div class="footer-right">
