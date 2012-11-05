@@ -32,6 +32,9 @@
 	<link type="text/css" rel="stylesheet" href="<?php bloginfo("template_url"); ?>/js/mediabox/mediaboxAdv<?php if($lg_color) : echo $lg_color; else : ?>White<?php endif; ?>.css" />
 	<?php endif ?>
 	
+	<!-- Google Web fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Arvo|PT+Sans' rel='stylesheet' type='text/css'>
+	
 	<!-- slider style -->
 	<?php if ( is_home()) { ?>
 	<link type="text/css" rel="stylesheet" href="<?php bloginfo("template_url"); ?>/css/<?php if($al_color) : echo($al_color); else : ?>light<?php endif; ?>/<?php if($slider) : echo($slider); else : ?>slider1<?php endif; ?>.css" />
