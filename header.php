@@ -109,5 +109,6 @@
 						?>
 				    </ul>
 				<?php }?>
-            </div>	
+            </div>
+        <div class="shadow-sep"></div><!-- end of shadow-sep -->
 </div><!-- end of header -->
