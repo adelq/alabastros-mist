@@ -110,5 +110,5 @@
 				    </ul>
 				<?php }?>
             </div>
-        <div class="shadow-sep"></div><!-- end of shadow-sep -->
 </div><!-- end of header -->
+<div class="shadow-sep"></div><!-- end of shadow-sep -->
