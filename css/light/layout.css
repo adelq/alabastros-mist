@@ -187,7 +187,13 @@ body{
 #top-info{
 	height: 66px;
 	width: 100%;
+	padding-top: 5px;
 }
+
+#top-info img {
+	float:right;
+}
+
 .top-buttons{ float: right;}
 
 #header{
