@@ -196,8 +196,7 @@ body{
 }
 
 img#logo{
-	width: 181px;
-	height: 56px;
+	height: 100px;
 	display: block;
 	float: left;
 	text-indent: -9999px;
