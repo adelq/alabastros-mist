@@ -2,16 +2,16 @@
  
 <div class="four-columns">
 	<div class="col">
-		<a href="/i-am-a-highschool-student/"><img width="200" height="136" src="/detroit/wp-content/uploads/2012/11/highschool-button11.png" class="attachment-200x200 wp-post-image" alt="I am a highschool student" title="highschool-button" /></a>
+		<a href="i-am-a-highschool-student/"><img width="200" height="136" src="/detroit/wp-content/uploads/2012/11/highschool-button11.png" class="attachment-200x200 wp-post-image" alt="I am a highschool student" title="highschool-button" /></a>
 	</div><!-- end of col -->
 	<div class="col">
-		<a href="/i-am-a-university-student/"><img width="200" height="136" src="/detroit/wp-content/uploads/2012/11/uni-college_button11.png" class="attachment-200x200 wp-post-image" alt="I am a university student" title="uni-college_button" /></a>
+		<a href="i-am-a-university-student/"><img width="200" height="136" src="/detroit/wp-content/uploads/2012/11/uni-college_button11.png" class="attachment-200x200 wp-post-image" alt="I am a university student" title="uni-college_button" /></a>
 	</div><!-- end of col -->
 	<div class="col">
-		<a href="/i-am-a-young-professional/"><img width="200" height="136" src="/detroit/wp-content/uploads/2012/11/young-pro_button11.png" class="attachment-200x200 wp-post-image" alt="I am a young professional" title="young-pro_button" /></a>
+		<a href="i-am-a-young-professional/"><img width="200" height="136" src="/detroit/wp-content/uploads/2012/11/young-pro_button11.png" class="attachment-200x200 wp-post-image" alt="I am a young professional" title="young-pro_button" /></a>
 	</div><!-- end of col -->
 	<div class="col">
-		<a href="/i-am-a-curious-parent/"><img width="200" height="136" src="/detroit/wp-content/uploads/2012/11/parent_button1.png" class="attachment-200x200 wp-post-image" alt="I am a curious parent" title="parent_button" /></a>
+		<a href="i-am-a-curious-parent/"><img width="200" height="136" src="/detroit/wp-content/uploads/2012/11/parent_button1.png" class="attachment-200x200 wp-post-image" alt="I am a curious parent" title="parent_button" /></a>
 	</div><!-- end of col -->
 </div><!-- end of four-columns -->
 
@@ -71,5 +71,6 @@
 			<p>Find out if your high school has a team, if not, let’s start one together! Information on registration, competitions, &amp; team setup.</p>
 		</div><!-- end of col -->
 	</div><!-- end of four-columns -->
+</div>
 
 <?php get_footer(); ?>
