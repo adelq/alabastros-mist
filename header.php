@@ -82,9 +82,9 @@
   	<div id="bg-light">
 	<div id="wrapper">
 		<div id="top-info">
-			<a href="https://twitter.com/mistdetroit"><img src="/wp-content/uploads/2012/11/twitter_alt.png" alt="MIST Twitter feed"></a>
-			<a href="http://www.youtube.com/user/mistdetroit"><img src="/wp-content/uploads/2012/11/youtube.png" alt="MIST Youtube Channel"></a>
-			<a href="https://www.facebook.com/detroit.mist"><img src="/wp-content/uploads/2012/11/facebook_alt.png"alt="MIST Facebook Page"></a>
+			<a href="https://twitter.com/mistdetroit"><img src="/detroit/wp-content/uploads/2012/11/twitter_alt.png" alt="MIST Twitter feed"></a>
+			<a href="http://www.youtube.com/user/mistdetroit"><img src="/detroit/wp-content/uploads/2012/11/youtube.png" alt="MIST Youtube Channel"></a>
+			<a href="https://www.facebook.com/detroit.mist"><img src="/detroit/wp-content/uploads/2012/11/facebook_alt.png"alt="MIST Facebook Page"></a>
 		</div><!-- end of top-info -->
 		
 		<div id="header">
