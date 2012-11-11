@@ -24,7 +24,6 @@
 <script type="text/javascript" charset="utf-8">
 $('.tip').tipsy({fade: true});
 </script>
-<script type="text/javascript"> Cufon.now(); </script>
 <?php echo stripslashes(get_option('al_ga_code')); ?>
 
 </body>
