@@ -10,7 +10,7 @@ line-height: 1em;
 font-size: 100%;
 font-weight: normal;
 font-style: normal;
-font-family: 'Arvo', serif;
+font-family: 'Arvo', 'Rockwell', serif;
 }
 table {
 font-size: inherit;
@@ -44,7 +44,7 @@ p{
 	font-size: 12px;
 	line-height: 17px;
 	color: #5f6060;
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'PT Sans', 'Trebuchet MS', sans-serif;
 	font-size: 14px;
 }
 
