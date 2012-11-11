@@ -33,7 +33,7 @@
 	<?php endif ?>
 	
 	<!-- Google Web fonts -->
-	<link href='http://fonts.googleapis.com/css?family=Arvo:400,700|PT+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Arvo:400,700|PT+Sans:400,700' rel='stylesheet' type='text/css'>
 	
 	<!-- slider style -->
 	<?php if ( is_home()) { ?>
