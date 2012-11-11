@@ -32,11 +32,11 @@
 <div id="main-content">
 	<div class="four-columns">
 		<div class="col">
-			<a href="/what-is-mist/the-basics/">
+			<a href="what-is-mist/the-basics/">
 			<img class="col-icon" src="http://getmistified.com/houston/wp-content/uploads/2011/02/info.png" alt="About us"/>
 
 			</a>
-			<h3><a href="/what-is-mist/the-basics/">About us</a></h3>
+			<h3><a href="what-is-mist/the-basics/">About us</a></h3>
 			<div class="hline"></div>
 			<div>
 			<p>Learn more about what MIST is and how it works. You’ll get a rundown of all the ins and outs of everything you need to know!</p>
@@ -44,29 +44,29 @@
 		</div><!-- end of col -->
 
 		<div class="col">
-			<a href="/competitions/theme/">
+			<a href="competitions/theme/">
 			<img class="col-icon" src="/detroit/wp-content/uploads/2012/11/40_48x48.png" alt="2012 Theme!"/>
 			</a>
-			<h3><a href="/competitions/theme/">2012 Theme!</a></h3>
+			<h3><a href="competitions/theme/">2012 Theme!</a></h3>
 			<div class="hline"></div>
 			<p>At last! The much awaited theme is&#8230;</p>
 			<p><strong>Family: Reconnecting Our Hearts to Home</strong></p>
 		</div><!-- end of col -->
 
 		<div class="col">
-			<a href="/what-is-mist/donate/">
+			<a href="what-is-mist/donate/">
 			<img class="col-icon" src="http://getmistified.com/houston/wp-content/uploads/2011/02/volunteer.png" alt="Get Involved With Us!"/>
 			</a>
-			<h3><a href="/what-is-mist/donate/">Donate</a></h3>
+			<h3><a href="what-is-mist/donate/">Donate</a></h3>
 			<div class="hline"></div>
 			<p>Want to help out with MIST Detroit? Please donate in the link above, or become a volunteer!</p>
 		</div><!-- end of col -->
 
 		<div class="col">
-			<a href="/registration/form-a-team/">
+			<a href="registration/form-a-team/">
 			<img class="col-icon" src="http://getmistified.com/houston/wp-content/uploads/2011/02/youtube.png" alt="Compete"/>
 			</a>
-			<h3><a href="/registration/form-a-team/">Compete</a></h3>
+			<h3><a href="registration/form-a-team/">Compete</a></h3>
 			<div class="hline"></div>
 			<p>Find out if your high school has a team, if not, let’s start one together! Information on registration, competitions, &amp; team setup.</p>
 		</div><!-- end of col -->
