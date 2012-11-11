@@ -26,8 +26,6 @@
 } else {
 	include( TEMPLATEPATH . '/featured/slider1.php' );
 }?>
-
-<div class="shadow-sep"></div><!-- end of shadow-sep -->
   
 <div id="main-content">
 	<div class="four-columns">
