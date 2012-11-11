@@ -3,7 +3,6 @@
 Template Name: Page With Sidebar
 */
 get_header(); ?>
- <div class="shadow-sep"></div><!-- end of shadow-sep -->
 
  <div id="main-content">
  	<div id="left-content">
