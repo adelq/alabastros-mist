@@ -315,6 +315,7 @@ color: #000 !important;
 #featured{
 	width: 960px;
 	height: 455px;
+	padding-bottom: 20px;
 }
 
 .featured-holder{
