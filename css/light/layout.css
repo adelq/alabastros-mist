@@ -1463,7 +1463,10 @@ img.logo-footer{
 	margin-right: 10px;
 }
 
-.footer-left{ float: left;}
+.footer-left{ 
+	float: left;
+	margin-top: 20px;
+}
 .footer-right{ float: right;}
 #footer p{
 	color: #919494;
