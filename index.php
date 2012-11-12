@@ -37,7 +37,7 @@
 			<h3><a href="what-is-mist/the-basics/">About us</a></h3>
 			<div class="hline"></div>
 			<div>
-			<p>Learn more about what MIST is and how it works. You’ll get a rundown of all the ins and outs of everything you need to know!</p>
+			<a href="what-is-mist/the-basics/"><p>Learn more about what MIST is and how it works. You’ll get a rundown of all the ins and outs of everything you need to know!</p></a>
 			</div>
 		</div><!-- end of col -->
 
@@ -47,8 +47,8 @@
 			</a>
 			<h3><a href="competitions/theme/">2012 Theme!</a></h3>
 			<div class="hline"></div>
-			<p>At last! The much awaited theme is&#8230;</p>
-			<p><strong>Family: Reconnecting Our Hearts to Home</strong></p>
+			<a href="competitions/theme/"><p>At last! The much awaited theme is&#8230;</p>
+			<p><strong>Family: Reconnecting Our Hearts to Home</strong></p></a>
 		</div><!-- end of col -->
 
 		<div class="col">
@@ -57,7 +57,7 @@
 			</a>
 			<h3><a href="what-is-mist/donate/">Donate</a></h3>
 			<div class="hline"></div>
-			<p>Want to help out with MIST Detroit? Please donate in the link above, or become a volunteer!</p>
+			<a href="what-is-mist/donate/"><p>Want to help out with MIST Detroit? Please donate in the link above, or become a volunteer!</p></a>
 		</div><!-- end of col -->
 
 		<div class="col">
@@ -66,7 +66,7 @@
 			</a>
 			<h3><a href="registration/form-a-team/">Compete</a></h3>
 			<div class="hline"></div>
-			<p>Find out if your high school has a team, if not, let’s start one together! Information on registration, competitions, &amp; team setup.</p>
+			<a href="registration/form-a-team/"><p>Find out if your high school has a team, if not, let’s start one together! Information on registration, competitions, &amp; team setup.</p></a>
 		</div><!-- end of col -->
 	</div><!-- end of four-columns -->
 </div>
