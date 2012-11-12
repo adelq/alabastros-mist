@@ -169,7 +169,7 @@ ul.list-arrow li{
 }
 
 body{
-	background: #eeeeee url(../../images/light/bg.png) repeat-x;
+	background-color: #eeeeee;
 	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
