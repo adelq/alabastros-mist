@@ -43,7 +43,7 @@
 
 		<div class="col">
 			<a href="competitions/theme/">
-			<img class="col-icon" src="http://getmistified.com/detroit/wp-content/uploads/2012/11/theme.jpg" alt="2012 Theme!"/>
+			<img class="col-icon" src="http://getmistified.com/detroit/wp-content/uploads/2012/11/theme.png" alt="2012 Theme!"/>
 			</a>
 			<h3><a href="competitions/theme/">2012 Theme!</a></h3>
 			<div class="hline"></div>
