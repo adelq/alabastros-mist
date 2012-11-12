@@ -173,7 +173,7 @@ body{
 	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
-#bg-light{ background:  url(../../images/light/bg-light.png) no-repeat top left;}
+#bg-light{ }
 
 #wrapper{
 	width: 960px;
